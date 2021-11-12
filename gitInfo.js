@@ -91,6 +91,6 @@ let commit = {
 
 //CODE HERE
 let push = {
-    "description" : "sends your local repositories commits to the remote repository",
+    "description" : "sends your local repository's commits to the remote repository",
     "code" : "git push origin main"
 }
